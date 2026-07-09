@@ -1,5 +1,5 @@
-package com.example.azhly.repository;
-import com.example.azhly.model.RoomBooking;
+package azh.bkd.demo.repository;
+import azh.bkd.demo.model.RoomBooking;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
