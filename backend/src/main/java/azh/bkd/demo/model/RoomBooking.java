@@ -1,4 +1,4 @@
-package com.example.azhly.model;
+package azh.bkd.demo.model;
 
 import jakarta.persistence.*;
 

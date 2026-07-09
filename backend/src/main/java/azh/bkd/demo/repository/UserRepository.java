@@ -1,5 +1,5 @@
-package com.example.azhly.repository;
-import com.example.azhly.model.User;
+package azh.bkd.demo.repository;
+import azh.bkd.demo.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 
