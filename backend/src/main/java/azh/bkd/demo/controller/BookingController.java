@@ -1,7 +1,7 @@
-package com.example.azhly.controller;
+package azh.bkd.demo.controller;
 
-import com.example.azhly.model.RoomBooking;
-import com.example.azhly.repository.RoomBookingRepository;
+import azh.bkd.demo.model.RoomBooking;
+import azh.bkd.demo.repository.RoomBookingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
